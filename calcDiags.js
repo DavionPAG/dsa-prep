@@ -1,7 +1,4 @@
-
-
-
-
+// Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
 let matrix = [
   [1,2,3,4],
